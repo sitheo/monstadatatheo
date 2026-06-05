@@ -1,7 +1,8 @@
 {
   "_metadata": {
-    "version": "manga.json V1.0 Rev 0",
-    "project": "MonstaComic V3.9"
+    "version": "manga.json V1.0 Rev 1",
+    "project": "MonstaComic V3.9",
+    "last_updated": "2026-06-05T17:21:00Z"
   },
   "manga_id": "manga-dspr-001",
   "title": "A Dragonslayer's Peerless Regression",
@@ -13,12 +14,13 @@
     "Action",
     "Adventure",
     "Fantasy",
-    "Martial Arts"
+    "Martial Arts",
+    "Drama"
   ],
   "type": "Manhwa",
   "release_year": 2023,
   "rating": 4.8,
-  "synopsis": "Setelah mengorbankan segalanya untuk membunuh Raja Naga, pahlawan kita mendapati dirinya kembali ke masa lalu saat ia masih menjadi prajurit rendahan. Dengan ingatan dan pengalaman tempur dari masa depan, ia bertekad untuk mengubah takdir dunia dan mencegah kehancuran umat manusia.",
+  "synopsis": "Setelah mengorbankan segalanya untuk membunuh Raja Naga, pahlawan kita mendapati dirinya kembali ke masa lalu saat ia masih menjadi prajurit rendahan. Dengan ingatan dan pengalaman tempur dari masa depan, ia bertekad untuk mengubah takdir dunia dan mencegah kehancuran umat manusia. Di kehidupan keduanya ini, ia tidak akan lagi menjadi bidak, melainkan raja yang mengendalikan papan catur.",
   "cover_url": "https://raw.githubusercontent.com/MonstaComic/assets/main/covers/manga-dspr-001-cover.jpg",
   "chapters": [
     {
@@ -38,7 +40,43 @@
         "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch002/page-001.jpg",
         "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch002/page-002.jpg",
         "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch002/page-003.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch002/page-004.jpg"
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch002/page-004.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch002/page-005.jpg"
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "chapter_title": "Ujian Pertama",
+      "images": [
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch003/page-001.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch003/page-002.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch003/page-003.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch003/page-004.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch003/page-005.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch003/page-006.jpg"
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "chapter_title": "Pedang Retak",
+      "images": [
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch004/page-001.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch004/page-002.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch004/page-003.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch004/page-004.jpg"
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "chapter_title": "Bayangan Masa Lalu",
+      "images": [
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch005/page-001.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch005/page-002.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch005/page-003.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch005/page-004.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch005/page-005.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch005/page-006.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch005/page-007.jpg"
       ]
     }
   ]
