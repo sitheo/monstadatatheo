@@ -6,5 +6,45 @@
     "filePath": "action/Cadet Becomes a Prophet.cbz",
     "coverUrl": "https://via.placeholder.com/200x300/1e1e1e/39ff14?text=Cadet%20Becomes%20a%20Prophet",
     "addedAt": "2026-06-12T10:10:24.370Z"
+  },
+  {
+    "id": "action-A Cadet Becomes a Prophet",
+    "title": "A Cadet Becomes a Prophet",
+    "category": "action",
+    "filePath": "action/A Cadet Becomes a Prophet.cbz",
+    "coverUrl": "https://via.placeholder.com/200x300/1e1e1e/39ff14?text=A%20Cadet%20Becomes%20a%20Prophet",
+    "addedAt": "2026-06-12T10:13:22.208Z"
+  },
+  {
+    "id": "action-Academy_s Genius Swordmaster",
+    "title": "Academy s Genius Swordmaster",
+    "category": "action",
+    "filePath": "action/Academy_s Genius Swordmaster.cbz",
+    "coverUrl": "https://via.placeholder.com/200x300/1e1e1e/39ff14?text=Academy%20s%20Genius%20Swordmaster",
+    "addedAt": "2026-06-12T10:13:22.208Z"
+  },
+  {
+    "id": "romance-Chronicles Of The Martial God_s Return",
+    "title": "Chronicles Of The Martial God s Return",
+    "category": "romance",
+    "filePath": "romance/Chronicles Of The Martial God_s Return.cbz",
+    "coverUrl": "https://via.placeholder.com/200x300/1e1e1e/39ff14?text=Chronicles%20Of%20The%20Martial%20God%20s%20Return",
+    "addedAt": "2026-06-12T10:13:22.208Z"
+  },
+  {
+    "id": "romance-Crimson Reset",
+    "title": "Crimson Reset",
+    "category": "romance",
+    "filePath": "romance/Crimson Reset.cbz",
+    "coverUrl": "https://via.placeholder.com/200x300/1e1e1e/39ff14?text=Crimson%20Reset",
+    "addedAt": "2026-06-12T10:13:22.208Z"
+  },
+  {
+    "id": "romance-Echoes of the Reverse Planet",
+    "title": "Echoes of the Reverse Planet",
+    "category": "romance",
+    "filePath": "romance/Echoes of the Reverse Planet.cbz",
+    "coverUrl": "https://via.placeholder.com/200x300/1e1e1e/39ff14?text=Echoes%20of%20the%20Reverse%20Planet",
+    "addedAt": "2026-06-12T10:13:22.208Z"
   }
 ]
