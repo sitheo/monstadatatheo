@@ -46,5 +46,13 @@
     "filePath": "romance/Echoes of the Reverse Planet.cbz",
     "coverUrl": "https://via.placeholder.com/200x300/1e1e1e/39ff14?text=Echoes%20of%20the%20Reverse%20Planet",
     "addedAt": "2026-06-12T10:13:22.208Z"
+  },
+  {
+    "id": "action-Children of the Rune",
+    "title": "Children of the Rune",
+    "category": "action",
+    "filePath": "action/Children of the Rune.cbz",
+    "coverUrl": "https://via.placeholder.com/200x300/1e1e1e/39ff14?text=Children%20of%20the%20Rune",
+    "addedAt": "2026-06-12T10:27:43.284Z"
   }
 ]
