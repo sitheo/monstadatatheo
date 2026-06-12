@@ -1,83 +1,10 @@
-{
-  "_metadata": {
-    "version": "manga.json V1.0 Rev 1",
-    "project": "MonstaComic V3.9",
-    "last_updated": "2026-06-05T17:21:00Z"
-  },
-  "manga_id": "manga-dspr-001",
-  "title": "A Dragonslayer's Peerless Regression",
-  "alternative_title": "The Peerless Dragon Slayer's Regression",
-  "status": "Ongoing",
-  "author": "Kwon Dong-Hee",
-  "artist": "Studio RED",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Martial Arts",
-    "Drama"
-  ],
-  "type": "Manhwa",
-  "release_year": 2023,
-  "rating": 4.8,
-  "synopsis": "Setelah mengorbankan segalanya untuk membunuh Raja Naga, pahlawan kita mendapati dirinya kembali ke masa lalu saat ia masih menjadi prajurit rendahan. Dengan ingatan dan pengalaman tempur dari masa depan, ia bertekad untuk mengubah takdir dunia dan mencegah kehancuran umat manusia. Di kehidupan keduanya ini, ia tidak akan lagi menjadi bidak, melainkan raja yang mengendalikan papan catur.",
-  "cover_url": "https://raw.githubusercontent.com/MonstaComic/assets/main/covers/manga-dspr-001-cover.jpg",
-  "chapters": [
-    {
-      "chapter_number": 1,
-      "chapter_title": "Awal yang Baru",
-      "images": [
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch001/page-001.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch001/page-002.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch001/page-003.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch001/page-004.jpg"
-      ]
-    },
-    {
-      "chapter_number": 2,
-      "chapter_title": "Membangkitkan Kekuatan",
-      "images": [
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch002/page-001.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch002/page-002.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch002/page-003.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch002/page-004.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch002/page-005.jpg"
-      ]
-    },
-    {
-      "chapter_number": 3,
-      "chapter_title": "Ujian Pertama",
-      "images": [
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch003/page-001.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch003/page-002.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch003/page-003.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch003/page-004.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch003/page-005.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch003/page-006.jpg"
-      ]
-    },
-    {
-      "chapter_number": 4,
-      "chapter_title": "Pedang Retak",
-      "images": [
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch004/page-001.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch004/page-002.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch004/page-003.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch004/page-004.jpg"
-      ]
-    },
-    {
-      "chapter_number": 5,
-      "chapter_title": "Bayangan Masa Lalu",
-      "images": [
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch005/page-001.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch005/page-002.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch005/page-003.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch005/page-004.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch005/page-005.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch005/page-006.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga-dspr-001/ch005/page-007.jpg"
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": "action-Cadet Becomes a Prophet",
+    "title": "Cadet Becomes a Prophet",
+    "category": "action",
+    "filePath": "action/Cadet Becomes a Prophet.cbz",
+    "coverUrl": "https://via.placeholder.com/200x300/1e1e1e/39ff14?text=Cadet%20Becomes%20a%20Prophet",
+    "addedAt": "2026-06-12T10:10:24.370Z"
+  }
+]
